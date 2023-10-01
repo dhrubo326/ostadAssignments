@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Time complexity O(n);
+// Time complexity O(n*log n);
 // Space complexity O(n);
 
 bool comparator(vector<int>&A, vector<int>&B){
